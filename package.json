@@ -1,0 +1,20 @@
+{
+  "name": "cse341-project2",
+  "version": "1.0.0",
+  "description": "My Project 2",
+  "homepage": "https://github.com/JaredMorillo/cse341-project2#readme",
+  "bugs": {
+    "url": "https://github.com/JaredMorillo/cse341-project2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaredMorillo/cse341-project2.git"
+  },
+  "license": "ISC",
+  "author": "Jared Morillo",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
