@@ -9,8 +9,7 @@
   "basePath": "/",
   "schemes": [
     "http",
-    "https"
-  ],
+    "https"],
   "paths": {
     "/": {
       "get": {
