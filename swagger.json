@@ -8,8 +8,9 @@
   "host": "cse341-myproject-msgr.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
-    "https"],
+    "https",
+    "http"
+  ],
   "paths": {
     "/": {
       "get": {
